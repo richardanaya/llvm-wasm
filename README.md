@@ -18,3 +18,5 @@ fetch("main.wasm")
   window.alert(results.instance.exports.main());
 });
 ```
+
+See it working [here](https://richardanaya.github.io/llvm-wasm/index.html)
